@@ -18,3 +18,5 @@ folium
 jsonfield
 pendulum
 nbgitpuller
+jupyter-dash
+pandasgui
